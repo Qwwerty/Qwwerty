@@ -35,7 +35,7 @@ Send feedback
    <a href="#">
      <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="discord" target="_blank">
   </a> &nbsp;&nbsp;
-  <a href="https://app.rocketseat.com.br/me/gabriel-mendonca-pereira">
+  <a href="https://app.rocketseat.com.br/me/qwerty-00349">
      <img src="https://avatars1.githubusercontent.com/u/28929274?s=280&v=4" width="30px" alt="rocketseat" target="_blank">
   </a> &nbsp;&nbsp;
 </p>
