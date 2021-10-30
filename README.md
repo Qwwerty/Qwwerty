@@ -1,41 +1,51 @@
-## 🖖🏻 Hello world
+  ## Oiii! Eu sou o Rhalf Oliveira
 
-### 👨🏻‍💻  Sobre mim
-Falaaaa dev, meu nome é Rhalf Oliveira. Sou programador Full Stack Web.
-Send feedback
-### 💼  Trabalhando 
+  <div align="center">
+  <a href="https://github.com/qwwerty">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qwwerty&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwwerty&layout=compact&langs_count=7&theme=shades-of-purple"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rhalf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rhalf-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rhalf-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rhalf-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rhalf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rhalf-GIT" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg">
+  <img align="center" alt="Rhalf-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Rhalf-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg">
+  <img align="center" alt="Rhalf-DOCKER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg">
+  <img align="center" alt="Rhalf-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg">
+  <img align="center" alt="Rhalf-GITLAB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="Rhalf-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rhalf-JEST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg">
+  <img align="center" alt="Rhalf-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rhalf-NEXTJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="Rhalf-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rhalf-NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Rhalf-POSTGRESQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Rhalf-REDIS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redis/redis-original.svg">
+  <img align="center" alt="Rhalf-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg">
+  <img align="center" alt="Rhalf-SOCKETIO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/socketio/socketio-original.svg">
+  <img align="center" alt="Rhalf-SPRING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg">
+  <img align="center" alt="Rhalf-SOURCETREE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sourcetree/sourcetree-original.svg">
+  <img align="center" alt="Rhalf-VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Rhalf-WEBPACK" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/webpack/webpack-original.svg">
+  <img align="center" alt="Rhalf-YARN" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/yarn/yarn-original.svg">
+  <img align="center" alt="Rhalf-WINDOWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Rhalf-LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Rhalf-MAC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apple/apple-original.svg">
+</div>
 
-### 🤯 Conhecimento nas seguintes tecnologias
-<code><img height="20" src="https://ionicframework.com/jp/docs/assets/icons/logo-react-icon.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://miro.medium.com/max/652/1*N0XV3gco7Ed4brMoxwdjVg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png"></code>
-<code><img height="20" src="https://imagens.tiespecialistas.com.br/2015/02/git.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+##
 
-### 📲  Me siga nas redes
-<p>
-  <a href="https://www.linkedin.com/in/rhalf-oliveira-a3672816a/" target="_blank">
-    <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn">
-  </a> &nbsp;
-  <a href="https://www.instagram.com/rhalf_souza/">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" width="30px" alt="discord" target="_blank">
-  </a> &nbsp;&nbsp;
-  <a href="https://github.com/Qwwerty">
-     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github" target="_blank">
-  </a> &nbsp;&nbsp;
-  <a href="#">
-     <img src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo.png" width="30px" alt="Telegram" target="_blank">
-  </a> &nbsp;&nbsp;
-   <a href="#">
-     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="discord" target="_blank">
-  </a> &nbsp;&nbsp;
-  <a href="https://app.rocketseat.com.br/me/qwerty-00349">
-     <img src="https://avatars1.githubusercontent.com/u/28929274?s=280&v=4" width="30px" alt="rocketseat" target="_blank">
-  </a> &nbsp;&nbsp;
-</p>
+<div> 
+  <a href="https://instagram.com/rhalf_souza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rhalfsouzaa@"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rhalf-oliveira-a3672816a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
