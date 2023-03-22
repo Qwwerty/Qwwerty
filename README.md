@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Rethink<br>👊🏼 I'm  looking to collaborateon React JS and NodeJS<br>🤝🏻 I'm looking for help with new app creations<br>🌱 I'm currently learning stripe<br>💬 Ask me about javascript<br>⚡ Fun fact - I don't like to sleep
+🔭 I'm currently working on Rethink<br>🤝🏻 I'm looking for help with Javascript<br>🌱 I'm currently learning stripe<br>💬 Ask me about javascript<br>⚡ Fun fact - I don't like to sleep
 
 
 ## 🌐 Socials:
