@@ -1,11 +1,13 @@
-<h1>Rhalf Oliveira</h1>
+# Rhalf Oliveira
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rhalf_souza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhalfoliveira) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rhalf10) 
+[![Twitter Badge](https://img.shields.io/badge/-@rhalf10-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/rhalf10) 
+[![Linkedin Badge](https://img.shields.io/badge/-Rhalf%20Oliveira-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhalfoliveira/)](https://www.linkedin.com/in/rhalfoliveira/) 
+[![Gmail Badge](https://img.shields.io/badge/-rhalfsouza@hotmail.com-00875f?style=flat-square&logo=gmail&logoColor=white&link=mailto:rhalfsouza@hotmail.com)](mailto:rhalfsouza@hotmail.com)
 
-<h5>I'm a javascript developer passionate about solving problems.</h5>
+I'm a javascript developer passionate about solving problems.
 
-<h5>I currently work at Rethink company. Working in the web development area using react with typescript.</h5>
+I currently work at Rethink company. Working in the web development area using react with typescript.
 
-<h5>"Determination, courage and self-confidence are decisive factors for success. If we are possessed by unwavering determination, 
-  we will overcome them. Regardless of the circumstances, we must always be humble, modest and without pride."
-</h5>
+"Determination, courage and self-confidence are decisive factors for success. If we are possessed by unwavering determination, 
+we will overcome them. Regardless of the circumstances, we must always be humble, modest and without pride."
+
