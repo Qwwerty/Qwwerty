@@ -10,4 +10,3 @@ I currently work at Rethink company. Working in the web development area using r
 
 "Determination, courage and self-confidence are decisive factors for success. If we are possessed by unwavering determination, 
 we will overcome them. Regardless of the circumstances, we must always be humble, modest and without pride."
-
